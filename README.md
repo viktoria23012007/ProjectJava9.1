@@ -1,4 +1,5 @@
 # ProjectJava9.1
 # Домашнее задание к занятию "Объектно-ориентированное программирование: ключевые принципы"
 Вывод отладчика:
-!  [![image](https://user-images.githubusercontent.com/104196580/174440281-8ab70112-6d89-4ece-9742-20f893656884.png)
+!  [![image](https://user-images.githubusercontent.com/104196580/174440682-f92e6443-745a-40c4-bb98-55ee11fd133f.png)
+
